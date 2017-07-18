@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 46fdf83707ff7194db2f6b07e1beb8d3
+timeCreated: 1499346774
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Teachers Pet
+  fontNames:
+  - Teachers Pet
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

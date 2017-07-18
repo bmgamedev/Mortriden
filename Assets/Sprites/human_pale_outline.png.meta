@@ -1,0 +1,668 @@
+fileFormatVersion: 2
+guid: 5ecbf6ec114c60f479c0c0317fa6a27b
+timeCreated: 1499342517
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: human_pale_outline_0
+    21300002: human_pale_outline_1
+    21300004: human_pale_outline_2
+    21300006: human_pale_outline_3
+    21300008: human_pale_outline_4
+    21300010: human_pale_outline_5
+    21300012: human_pale_outline_6
+    21300014: human_pale_outline_7
+    21300016: human_pale_outline_8
+    21300018: human_pale_outline_9
+    21300020: human_pale_outline_10
+    21300022: human_pale_outline_11
+    21300024: human_pale_outline_12
+    21300026: human_pale_outline_13
+    21300028: human_pale_outline_14
+    21300030: human_pale_outline_15
+    21300032: human_pale_outline_16
+    21300034: human_pale_outline_17
+    21300036: human_pale_outline_18
+    21300038: human_pale_outline_19
+    21300040: human_pale_outline_20
+    21300042: human_pale_outline_21
+    21300044: human_pale_outline_22
+    21300046: human_pale_outline_23
+    21300048: human_pale_outline_24
+    21300050: human_pale_outline_25
+    21300052: human_pale_outline_26
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 20
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: human_pale_outline_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 41
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: human_pale_outline_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 42
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: human_pale_outline_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 42
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: human_pale_outline_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 41
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: human_pale_outline_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 41
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: human_pale_outline_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 41
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: human_pale_outline_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 41
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: human_pale_outline_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 41
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: human_pale_outline_8
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 41
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: human_pale_outline_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 21
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: human_pale_outline_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 22
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: human_pale_outline_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 22
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: human_pale_outline_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 21
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: human_pale_outline_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 21
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: human_pale_outline_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 21
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: human_pale_outline_15
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 21
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: human_pale_outline_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 21
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: human_pale_outline_17
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 21
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: human_pale_outline_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: human_pale_outline_19
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: human_pale_outline_20
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: human_pale_outline_21
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: human_pale_outline_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: human_pale_outline_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: human_pale_outline_24
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: human_pale_outline_25
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: human_pale_outline_26
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -86, y: -12}
+      - {x: -87, y: -15}
+      - {x: -89, y: -20}
+      - {x: -89, y: -30}
+      - {x: -72, y: -30}
+      - {x: -72, y: -13}
+      - {x: -76, y: -12}
+    - - {x: -45, y: -11}
+      - {x: -49, y: -18}
+      - {x: -49, y: -28}
+      - {x: -44, y: -30}
+      - {x: -13, y: -30}
+      - {x: -12, y: -29}
+      - {x: -12, y: -14}
+      - {x: -20, y: -11}
+    - - {x: 6, y: -12}
+      - {x: -4, y: -12}
+      - {x: -8, y: -13}
+      - {x: -8, y: -30}
+      - {x: 7, y: -30}
+      - {x: 8, y: -29}
+      - {x: 8, y: -15}
+    - - {x: 16, y: -12}
+      - {x: 13, y: -17}
+      - {x: 13, y: -26}
+      - {x: 15, y: -30}
+      - {x: 28, y: -30}
+      - {x: 28, y: -15}
+      - {x: 24, y: -12}
+    - - {x: 34, y: -12}
+      - {x: 32, y: -15}
+      - {x: 31, y: -17}
+      - {x: 31, y: -30}
+      - {x: 48, y: -30}
+      - {x: 48, y: -14}
+      - {x: 42, y: -12}
+    - - {x: 54, y: -12}
+      - {x: 50, y: -17}
+      - {x: 50, y: -29}
+      - {x: 51, y: -30}
+      - {x: 65, y: -30}
+      - {x: 67, y: -28}
+      - {x: 67, y: -15}
+      - {x: 63, y: -12}
+    - - {x: 71, y: -16}
+      - {x: 71, y: -29}
+      - {x: 72, y: -30}
+      - {x: 90, y: -30}
+      - {x: 90, y: -16}
+    - - {x: -57, y: -11}
+      - {x: -66, y: -11}
+      - {x: -67, y: -15}
+      - {x: -68, y: -20}
+      - {x: -67, y: -26}
+      - {x: -64, y: -30}
+      - {x: -55, y: -30}
+      - {x: -53, y: -28}
+      - {x: -53, y: -12}
+    - - {x: -84, y: 7}
+      - {x: -88, y: 6}
+      - {x: -88, y: -11}
+      - {x: -73, y: -11}
+      - {x: -73, y: 6}
+      - {x: -74, y: 7}
+    - - {x: -30, y: -6}
+      - {x: -27, y: -11}
+      - {x: -17, y: -11}
+      - {x: -13, y: -10}
+      - {x: -13, y: 4}
+      - {x: -15, y: 7}
+      - {x: -25, y: 7}
+      - {x: -30, y: 5}
+    - - {x: -5, y: 7}
+      - {x: -8, y: 2}
+      - {x: -8, y: -6}
+      - {x: -5, y: -11}
+      - {x: 3, y: -11}
+      - {x: 7, y: -8}
+      - {x: 7, y: 4}
+      - {x: 3, y: 7}
+    - - {x: 16, y: 7}
+      - {x: 13, y: 1}
+      - {x: 13, y: -6}
+      - {x: 15, y: -9}
+      - {x: 17, y: -11}
+      - {x: 27, y: -11}
+      - {x: 28, y: -7}
+      - {x: 28, y: 6}
+      - {x: 24, y: 7}
+    - - {x: 33, y: 7}
+      - {x: 31, y: 5}
+      - {x: 31, y: -10}
+      - {x: 36, y: -11}
+      - {x: 45, y: -11}
+      - {x: 47, y: -9}
+      - {x: 47, y: 6}
+      - {x: 43, y: 7}
+    - - {x: 57, y: 7}
+      - {x: 52, y: 5}
+      - {x: 52, y: -8}
+      - {x: 56, y: -11}
+      - {x: 64, y: -11}
+      - {x: 67, y: -7}
+      - {x: 67, y: 5}
+      - {x: 66, y: 7}
+    - - {x: 74, y: 4}
+      - {x: 71, y: 2}
+      - {x: 71, y: -8}
+      - {x: 76, y: -11}
+      - {x: 86, y: -11}
+      - {x: 90, y: -5}
+      - {x: 90, y: 1}
+      - {x: 86, y: 4}
+    - - {x: -65, y: 8}
+      - {x: -68, y: 3}
+      - {x: -68, y: -9}
+      - {x: -65, y: -10}
+      - {x: -54, y: -10}
+      - {x: -54, y: -8}
+      - {x: -53, y: 4}
+      - {x: -57, y: 8}
+    - - {x: -48, y: -7}
+      - {x: -46, y: -10}
+      - {x: -35, y: -10}
+      - {x: -32, y: -9}
+      - {x: -32, y: 5}
+      - {x: -34, y: 8}
+      - {x: -44, y: 8}
+      - {x: -48, y: 6}
+    - - {x: -75, y: 26}
+      - {x: -84, y: 26}
+      - {x: -88, y: 25}
+      - {x: -88, y: 10}
+      - {x: -84, y: 9}
+      - {x: -75, y: 9}
+      - {x: -73, y: 11}
+      - {x: -73, y: 24}
+    - - {x: -27, y: 26}
+      - {x: -29, y: 21}
+      - {x: -29, y: 10}
+      - {x: -27, y: 9}
+      - {x: -14, y: 9}
+      - {x: -14, y: 24}
+      - {x: -18, y: 26}
+    - - {x: -3, y: 26}
+      - {x: -8, y: 25}
+      - {x: -8, y: 12}
+      - {x: -3, y: 9}
+      - {x: 6, y: 9}
+      - {x: 7, y: 11}
+      - {x: 7, y: 26}
+    - - {x: 16, y: 26}
+      - {x: 13, y: 21}
+      - {x: 13, y: 13}
+      - {x: 16, y: 9}
+      - {x: 26, y: 9}
+      - {x: 28, y: 11}
+      - {x: 28, y: 23}
+      - {x: 26, y: 26}
+    - - {x: 42, y: 26}
+      - {x: 34, y: 26}
+      - {x: 31, y: 20}
+      - {x: 31, y: 14}
+      - {x: 35, y: 9}
+      - {x: 43, y: 9}
+      - {x: 47, y: 12}
+      - {x: 47, y: 23}
+    - - {x: 54, y: 26}
+      - {x: 52, y: 23}
+      - {x: 52, y: 12}
+      - {x: 56, y: 9}
+      - {x: 64, y: 9}
+      - {x: 67, y: 14}
+      - {x: 67, y: 25}
+      - {x: 64, y: 26}
+    - - {x: 72, y: 24}
+      - {x: 71, y: 23}
+      - {x: 71, y: 13}
+      - {x: 73, y: 9}
+      - {x: 86, y: 9}
+      - {x: 89, y: 15}
+      - {x: 89, y: 23}
+      - {x: 87, y: 24}
+    - - {x: -65, y: 27}
+      - {x: -68, y: 26}
+      - {x: -68, y: 17}
+      - {x: -66, y: 10}
+      - {x: -53, y: 10}
+      - {x: -53, y: 24}
+      - {x: -54, y: 27}
+    - - {x: -45, y: 27}
+      - {x: -48, y: 22}
+      - {x: -48, y: 11}
+      - {x: -45, y: 10}
+      - {x: -35, y: 10}
+      - {x: -33, y: 14}
+      - {x: -33, y: 23}
+      - {x: -37, y: 27}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
